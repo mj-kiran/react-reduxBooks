@@ -1,0 +1,48 @@
+
+.store_title {
+  /* font-size: 65px; */
+  margin-top: -10px !important; /* remove default top padding */
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
+
+
+.books_title {
+  text-align: left;
+  color: #3c763d;
+  margin-left: 63px;
+  margin-bottom: 17px;
+  font-weight: 900;
+  font-size: 1.6rem;
+  margin-top: 10px;
+}
+
+@media (max-width: 576px) {
+  .store_title {
+    font-size: 1.5rem;
+  }
+  
+  .books_title {
+    font-size: 1.2rem;
+  }
+}
+@media (max-width: 770px) {
+  .store_title {
+    font-size: 1.3rem;
+  }
+  .books_title {
+    font-size: 1.4rem;
+  }
+  
+}
+@media (max-width: 490px) {
+  .store_title {
+    font-size: 1rem;
+  }
+  .books_title {
+    font-size: 1.1rem;
+    
+  }
+}
+

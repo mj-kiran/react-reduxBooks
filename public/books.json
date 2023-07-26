@@ -1,0 +1,168 @@
+{
+    "books":[
+      {
+        "id": 1,
+        "name": "Randamoozham",
+        "image_url": "https://rukminim1.flixcart.com/image/850/1000/kd1zngw0/regionalbooks/2/y/f/randamoozham-original-imafufn9mkg2nxgy.jpeg?q=90",
+        "description": "Best in Sales",
+        "price": 300,
+        "stock": 50
+      },
+      {
+        "id": 2,
+        "name": "Pathummayude Aadu",
+        "image_url": "https://rukminim2.flixcart.com/image/850/1000/k05ljm80/book/0/9/3/pathummayude-aadu-original-imafkyy3pphcj6bt.jpeg?q=90",
+        "description": "Best in Sales",
+        "price": 100,
+        "stock": 10
+      },
+      {
+        "id": 3,
+        "name": "Aatujeevitham",
+        "image_url": "https://image3.mouthshut.com/images/ImagesR/2011/4/925616314-2887690-1.jpg?rnd=28269",
+        "description": "Best in Sales",
+        "price": 2000,
+        "stock": 5
+      },
+      {
+        "id": 4,
+        "name": "Balyakalasakhi",
+        "image_url": "https://files.instapdf.in/wp-content/uploads/pdf-thumbnails/2020/07/balyakalasakhi-3950.webp",
+        "description": "Best in Sales",
+        "price": 150,
+        "stock": 70
+      },
+      {
+        "id": 5,
+        "name": "Ente Katha",
+        "image_url": "https://rukminim2.flixcart.com/image/850/1000/kjabs7k0-0/book/e/k/z/ente-katha-original-imafyvvmhhuthjcj.jpeg?q=90",
+        "description": "Best in Sales",
+        "price": 320,
+        "stock": 10
+      },
+      {
+        "id": 6,
+        "name": "Naalukettu",
+        "image_url": "https://greenbooksindia.com/image/cache/catalog/NALUKETTU-700x1000.jpg",
+        "description": "Best in Sales",
+        "price": 300,
+        "stock": 50
+      },
+      {
+        "id": 7,
+        "name": "Premalekhanam",
+        "image_url": "https://dcbookstore.com/uploads/product/images/bk_8332.jpg",
+        "description": "Best in Sales",
+        "price": 300,
+        "stock": 40
+      },
+      {
+        "id": 8,
+        "name": "Mathilukal",
+        "image_url": "https://dcbookstore.com/uploads/product/images/1581134353069-bk-1087.jpg",
+        "description": "Best in Sales",
+        "price": 300,
+        "stock": 40
+      },
+      {
+        "id": 9,
+        "name": "Yakshi",
+        "image_url": "https://m.media-amazon.com/images/I/61iXYqKiZ1L._AC_UF1000,1000_QL80_.jpg",
+        "description": "Best in Sales",
+        "price": 300,
+        "stock": 40
+      },
+      {
+        "id": 10,
+        "name": " Chidambara Smarana",
+        "image_url": "https://www.manoramaonline.com/content/dam/mm/mo/literature/literaryworld/images/2022/6/18/chidambara-smarana.jpg",
+        "description": "Best in Sales",
+        "price": 300,
+        "stock": 40
+      },
+      {
+        "id": 11,
+        "name": "Yakshi",
+        "image_url": "https://m.media-amazon.com/images/I/61iXYqKiZ1L._AC_UF1000,1000_QL80_.jpg",
+        "description": "Best in Sales",
+        "price": 300,
+        "stock": 40
+      },
+      {
+        "id": 12,
+        "name": "Yakshi",
+        "image_url": "https://m.media-amazon.com/images/I/61iXYqKiZ1L._AC_UF1000,1000_QL80_.jpg",
+        "description": "Best in Sales",
+        "price": 300,
+        "stock": 40
+      },
+      {
+        "id": 22,
+        "name": "Stapler",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1ITLpyhypkEvvXVyZjhUYNKPIiIUJSKei3NQXfi0-Q&s",
+        "description": "Best in industry",
+        "price": 30,
+        "stock": 100
+      },
+      {
+        "id": 23,
+        "name": "Eraser",
+        "image_url": "https://5.imimg.com/data5/KL/TH/MY-30911641/rubber-eraser-500x500.jpg",
+        "description": "Best in industry",
+        "price": 30,
+        "stock": 100
+      },
+      {
+        "id": 24,
+        "name": "Push-pin",
+        "image_url": "https://img.freepik.com/premium-vector/push-pin-different-angles-set_53562-9346.jpg",
+        "description": "Best in industry",
+        "price": 10,
+        "stock": 150
+      },
+      {
+        "id": 25,
+        "name": "Paper clip",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Wanzijia.jpg",
+        "description": "Best in industry",
+        "price": 10,
+        "stock": 100
+      },
+      {
+        "id": 26,
+        "name": "Rubber stamp",
+        "image_url": "https://www.industrialrubbergoods.com/images/rubber-stamps-1.jpg",
+        "description": "Best in industry",
+        "price": 100,
+        "stock": 100
+      },
+      {
+        "id": 27,
+        "name": "Highlighter",
+        "image_url": "https://stationeryhut.in/image/cache/data/highlighter-pen-1-500x500.jpg",
+        "description": "Best in industry",
+        "price": 30,
+        "stock": 100
+      },
+      {
+        "id": 28,
+        "name": "Fountain pen",
+        "image_url": "https://5.imimg.com/data5/SELLER/Default/2020/10/PX/KF/AW/20193325/ink-pen.jpg",
+        "description": "Best in industry",
+        "price": 60,
+        "stock": 30
+      }
+    ],
+    "stationaries":[
+        {
+            
+        "id": 22,
+        "name": "Naalukettu",
+        "image_url": "https://greenbooksindia.com/image/cache/catalog/NALUKETTU-700x1000.jpg",
+        "description": "Best in Sales",
+        "price": 300,
+        "stock": 50
+      
+        }
+    ]
+}
