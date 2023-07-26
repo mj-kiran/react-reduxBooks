@@ -151,12 +151,20 @@
         "description": "Best in industry",
         "price": 60,
         "stock": 30
+      },
+      {
+        "id": 29,
+        "name": "Pencil",
+        "image_url": "https://images.unsplash.com/photo-1607081758973-b85919737e26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGVuY2lsfGVufDB8fDB8fHww&w=1000&q=80",
+        "description": "Best in industry",
+        "price": 60,
+        "stock": 30
       }
     ],
     "stationaries":[
         {
             
-        "id": 22,
+        "id": 75,
         "name": "Naalukettu",
         "image_url": "https://greenbooksindia.com/image/cache/catalog/NALUKETTU-700x1000.jpg",
         "description": "Best in Sales",
